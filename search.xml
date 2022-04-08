@@ -31,4 +31,20 @@
     <content><![CDATA[<p>遇到困难时不要抱怨，既然改变不了过去，那么就努力改变未来。2、顽强的毅力能够征服世界上任何一座高峰。3、行动不必须带来快乐，而无行动则决无快乐。4、学问二字，须要拆开看，学是学，问是问光阴易逝，岂容我待。5、成功之前我们要做就应做的事情，成功之后我们才能够做喜欢做的事情。”</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>Hexo博客优化之内容编辑</title>
+    <url>/2022/04/08/newspaper/</url>
+    <content><![CDATA[<p>前言</p>
+<pre><code>   本文章向大家介绍markdown操作手册，主要包括markdown操作手册使用实例、应用技巧、基本知识点总结和需要注意事项，具有一定的参考价值，需要的朋友可以参考一下。
+</code></pre>
+]]></content>
+      <categories>
+        <category>软件安装与使用</category>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Markedown</tag>
+        <tag>对象存储</tag>
+      </tags>
+  </entry>
 </search>

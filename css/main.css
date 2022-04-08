@@ -1196,10 +1196,13 @@ pre .javascript .function {
   margin-bottom: 10px;
   margin-right: 10px;
   vertical-align: middle;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff4529;
+  background: #9e3d1a;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1976,6 +1979,48 @@ pre .javascript .function {
 #qr p {
   text-align: center;
 }
+#qr > div:hover p {
+  animation: roll 0.1s infinite linear;
+}
+@-moz-keyframes roll {
+  from {
+    transform: rotateZ(30deg);
+  }
+  to {
+    transform: rotateZ(-30deg);
+  }
+}
+@-webkit-keyframes roll {
+  from {
+    transform: rotateZ(30deg);
+  }
+  to {
+    transform: rotateZ(-30deg);
+  }
+}
+@-o-keyframes roll {
+  from {
+    transform: rotateZ(30deg);
+  }
+  to {
+    transform: rotateZ(-30deg);
+  }
+}
+@keyframes roll {
+  from {
+    transform: rotateZ(30deg);
+  }
+  to {
+    transform: rotateZ(-30deg);
+  }
+}
+.post-copyright {
+  background: var(--card-bg-color);
+  border-left: 3px solid #ff2a2a;
+  list-style: none;
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+}
 .category-all-page .category-all-title {
   text-align: center;
 }
@@ -2541,21 +2586,6 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-blogroll-item {
   padding: 0;
-  display: inline-block;
-  margin: 5px 0 0;
-  width: unset;
-}
-.links-of-blogroll-item a,
-.links-of-blogroll-item span.exturl {
-  box-sizing: border-box;
-  display: inline-block;
-  margin-bottom: 0;
-  margin-right: 0;
-  max-width: 216px;
-  overflow: hidden;
-  padding: 0 5px;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 .back-to-top {
   background: var(--body-bg-color);
