@@ -27,10 +27,18 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo博客优化之内容编辑</title>
+    <title>博客文章测验</title>
+    <url>/2022/04/07/newpapername/</url>
+    <content><![CDATA[<p>你好，旧时间</p>
+<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hexo博客搭建及主题优化</title>
     <url>/2022/04/08/newspaper/</url>
-    <content><![CDATA[<p>前言</p>
-<pre><code>   本文章向大家介绍markdown操作手册，主要包括markdown操作手册使用实例、应用技巧、基本知识点总结和需要注意事项，具有一定的参考价值，需要的朋友可以参考一下。
+    <content><![CDATA[<p>#前言</p>
+<pre><code>本篇文章主要介绍hexo博客的搭建及主题优化内容。
+hex博客搭建参考B站这个视频 附上链接https://www.bilibili.com/video/BV1mU4y1j72n?spm_id_from=333.999.0.0
 </code></pre>
 ]]></content>
       <categories>
@@ -65,13 +73,6 @@
 <img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky.jpg" class title="This is an test image">
 
 <p>这是刘十三最后的感悟，也是《云边有个小卖部》的点睛之笔，无论悲伤或者希望，正是有了这缕光的存在，我们的生命才会如此五彩缤纷。所不同的是，刘十三原本并不明白活着的意义，或者说是他太过年轻的心只知道远方的“山和海”，却忘了云边镇的美好和那个一直守候着她的人。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>博客文章测验</title>
-    <url>/2022/04/07/newpapername/</url>
-    <content><![CDATA[<p>你好，旧时间</p>
-<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
 ]]></content>
   </entry>
 </search>
