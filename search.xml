@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo博客搭建及主题优化</title>
+    <url>/2022/04/08/newspaper/</url>
+    <content><![CDATA[<p>前言</p>
+<pre><code>本篇文章主要介绍hexo博客的搭建及主题优化内容。
+hex博客搭建参考B站这个视频 
+附上链接https://www.bilibili.com/video/BV1mU4y1j72n?spm_id_from=333.999.0.0
+</code></pre>
+<h3 id="hexo的美化"><a href="#hexo的美化" class="headerlink" title="hexo的美化"></a>hexo的美化</h3><pre><code>具体参考csdn 附上参考链接地址
+这是参考链接 [hexo美化] (https://blog.csdn.net/nightmare_dimple/article/details/86661502)
+</code></pre>
+]]></content>
+      <categories>
+        <category>软件安装与使用</category>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>二十岁</title>
+    <url>/2022/04/08/%E4%BA%8C%E5%8D%81%E5%B2%81/</url>
+    <content><![CDATA[<p>人与人之间的最大差别，可能就在于境界与格局的不同。</p>
+<p>有人终其一生都很平庸与简单，也有人穷尽一生去追逐卓越与缤纷，可是这其中的划分，到底天赋所致，还是后天努力的结果？</p>
+<span id="more"></span>
+
+<p>很多人认命且无奈，总觉得父母本就平凡，自然也就无法改变命运，毕竟含着金汤匙出生的人从起跑线上就赢了几分，但是，每个人的命运都掌握在自己手心里，你若想，你若有胆识与气魄，也总有卓越不凡的无限可能，因为你梦想远大，看得见更宽阔的世界，期待着更广袤的天地，这份好奇与求知或许是最大的内驱力。</p>
+<p>当一个人具备着内驱力时，人生终将不凡与惊艳，因为他们敢于拼搏，勇于努力，主动挑战，自主成长，即使外界质疑不断，也能看得见自己的价值和魅力，始终坚守，一直努力，生活终究不会辜负认真与用心的人。</p>
+<p>怎样都是一生，简单是，繁华是，平庸是，惊艳是，希望你总能为自己书写着更高级的人生序章。</p>
+]]></content>
+      <categories>
+        <category>生活日常</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客文章测验</title>
+    <url>/2022/04/07/newpapername/</url>
+    <content><![CDATA[<p>你好，旧时间</p>
+<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>云边小卖部</title>
+    <url>/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/</url>
+    <content><![CDATA[<p>关于《云边有个小卖部》，这些话希望你还记得。</p>
+<p>1.生命是有光的。在我熄灭以前，能够照亮你一点，就是我所有能做的了。我爱你，你要记得我。</p>
+<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky2.jpg" class title="This is an test image">
+
+<p>2.为别人活着，也要为自己活着。希望和悲伤，都是一缕光。</p>
+<span id="more"></span>
+
+<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky.jpg" class title="This is an test image">
+
+<p>这是刘十三最后的感悟，也是《云边有个小卖部》的点睛之笔，无论悲伤或者希望，正是有了这缕光的存在，我们的生命才会如此五彩缤纷。所不同的是，刘十三原本并不明白活着的意义，或者说是他太过年轻的心只知道远方的“山和海”，却忘了云边镇的美好和那个一直守候着她的人。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo博客写文章及基本操作</title>
     <url>/2022/04/09/hexo%E5%8D%9A%E5%AE%A2%E5%86%99%E6%96%87%E7%AB%A0%E5%8F%8A%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</url>
     <content><![CDATA[<h1 id="常用快捷键和语法"><a href="#常用快捷键和语法" class="headerlink" title="常用快捷键和语法"></a>常用快捷键和语法</h1><p>标题：Ctrl+1、2、3…对应一、二、三…级标题（光标定位到需要设置为标题的行，按快捷键）</p>
@@ -68,62 +125,5 @@
       <tags>
         <tag>-hexo</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>二十岁</title>
-    <url>/2022/04/08/%E4%BA%8C%E5%8D%81%E5%B2%81/</url>
-    <content><![CDATA[<p>人与人之间的最大差别，可能就在于境界与格局的不同。</p>
-<p>有人终其一生都很平庸与简单，也有人穷尽一生去追逐卓越与缤纷，可是这其中的划分，到底天赋所致，还是后天努力的结果？</p>
-<span id="more"></span>
-
-<p>很多人认命且无奈，总觉得父母本就平凡，自然也就无法改变命运，毕竟含着金汤匙出生的人从起跑线上就赢了几分，但是，每个人的命运都掌握在自己手心里，你若想，你若有胆识与气魄，也总有卓越不凡的无限可能，因为你梦想远大，看得见更宽阔的世界，期待着更广袤的天地，这份好奇与求知或许是最大的内驱力。</p>
-<p>当一个人具备着内驱力时，人生终将不凡与惊艳，因为他们敢于拼搏，勇于努力，主动挑战，自主成长，即使外界质疑不断，也能看得见自己的价值和魅力，始终坚守，一直努力，生活终究不会辜负认真与用心的人。</p>
-<p>怎样都是一生，简单是，繁华是，平庸是，惊艳是，希望你总能为自己书写着更高级的人生序章。</p>
-]]></content>
-      <categories>
-        <category>生活日常</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo博客搭建及主题优化</title>
-    <url>/2022/04/08/newspaper/</url>
-    <content><![CDATA[<p>前言</p>
-<pre><code>本篇文章主要介绍hexo博客的搭建及主题优化内容。
-hex博客搭建参考B站这个视频 
-附上链接https://www.bilibili.com/video/BV1mU4y1j72n?spm_id_from=333.999.0.0
-</code></pre>
-<h3 id="hexo的美化"><a href="#hexo的美化" class="headerlink" title="hexo的美化"></a>hexo的美化</h3><pre><code>具体参考csdn 附上参考链接地址
-这是参考链接 [hexo美化] (https://blog.csdn.net/nightmare_dimple/article/details/86661502)
-</code></pre>
-]]></content>
-      <categories>
-        <category>软件安装与使用</category>
-        <category>Hexo</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>云边小卖部</title>
-    <url>/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/</url>
-    <content><![CDATA[<p>关于《云边有个小卖部》，这些话希望你还记得。</p>
-<p>1.生命是有光的。在我熄灭以前，能够照亮你一点，就是我所有能做的了。我爱你，你要记得我。</p>
-<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky2.jpg" class title="This is an test image">
-
-<p>2.为别人活着，也要为自己活着。希望和悲伤，都是一缕光。</p>
-<span id="more"></span>
-
-<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky.jpg" class title="This is an test image">
-
-<p>这是刘十三最后的感悟，也是《云边有个小卖部》的点睛之笔，无论悲伤或者希望，正是有了这缕光的存在，我们的生命才会如此五彩缤纷。所不同的是，刘十三原本并不明白活着的意义，或者说是他太过年轻的心只知道远方的“山和海”，却忘了云边镇的美好和那个一直守候着她的人。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>博客文章测验</title>
-    <url>/2022/04/07/newpapername/</url>
-    <content><![CDATA[<p>你好，旧时间</p>
-<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
-]]></content>
   </entry>
 </search>
