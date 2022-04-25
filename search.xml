@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo博客搭建及主题优化</title>
-    <url>/2022/04/08/newspaper/</url>
-    <content><![CDATA[<p>前言</p>
-<pre><code>本篇文章主要介绍hexo博客的搭建及主题优化内容。
-hex博客搭建参考B站这个视频 
-附上链接https://www.bilibili.com/video/BV1mU4y1j72n?spm_id_from=333.999.0.0
-</code></pre>
-<h3 id="hexo的美化"><a href="#hexo的美化" class="headerlink" title="hexo的美化"></a>hexo的美化</h3><pre><code>具体参考csdn 附上参考链接地址
-这是参考链接 [hexo美化] (https://blog.csdn.net/nightmare_dimple/article/details/86661502)
-</code></pre>
+    <title>博客文章测验</title>
+    <url>/2022/04/07/newpapername/</url>
+    <content><![CDATA[<p>你好，旧时间</p>
+<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
 ]]></content>
-      <categories>
-        <category>软件安装与使用</category>
-        <category>Hexo</category>
-      </categories>
   </entry>
   <entry>
     <title>二十岁</title>
@@ -34,28 +24,6 @@ hex博客搭建参考B站这个视频
       <tags>
         <tag>生活</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>博客文章测验</title>
-    <url>/2022/04/07/newpapername/</url>
-    <content><![CDATA[<p>你好，旧时间</p>
-<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>云边小卖部</title>
-    <url>/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/</url>
-    <content><![CDATA[<p>关于《云边有个小卖部》，这些话希望你还记得。</p>
-<p>1.生命是有光的。在我熄灭以前，能够照亮你一点，就是我所有能做的了。我爱你，你要记得我。</p>
-<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky2.jpg" class title="This is an test image">
-
-<p>2.为别人活着，也要为自己活着。希望和悲伤，都是一缕光。</p>
-<span id="more"></span>
-
-<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky.jpg" class title="This is an test image">
-
-<p>这是刘十三最后的感悟，也是《云边有个小卖部》的点睛之笔，无论悲伤或者希望，正是有了这缕光的存在，我们的生命才会如此五彩缤纷。所不同的是，刘十三原本并不明白活着的意义，或者说是他太过年轻的心只知道远方的“山和海”，却忘了云边镇的美好和那个一直守候着她的人。</p>
-]]></content>
   </entry>
   <entry>
     <title>hexo博客写文章及基本操作</title>
@@ -125,5 +93,37 @@ hex博客搭建参考B站这个视频
       <tags>
         <tag>-hexo</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>云边小卖部</title>
+    <url>/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/</url>
+    <content><![CDATA[<p>关于《云边有个小卖部》，这些话希望你还记得。</p>
+<p>1.生命是有光的。在我熄灭以前，能够照亮你一点，就是我所有能做的了。我爱你，你要记得我。</p>
+<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky2.jpg" class title="This is an test image">
+
+<p>2.为别人活着，也要为自己活着。希望和悲伤，都是一缕光。</p>
+<span id="more"></span>
+
+<img src="/2022/04/08/%E4%BA%91%E8%BE%B9%E5%B0%8F%E5%8D%96%E9%83%A8/sky.jpg" class title="This is an test image">
+
+<p>这是刘十三最后的感悟，也是《云边有个小卖部》的点睛之笔，无论悲伤或者希望，正是有了这缕光的存在，我们的生命才会如此五彩缤纷。所不同的是，刘十三原本并不明白活着的意义，或者说是他太过年轻的心只知道远方的“山和海”，却忘了云边镇的美好和那个一直守候着她的人。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hexo博客搭建及主题优化</title>
+    <url>/2022/04/08/newspaper/</url>
+    <content><![CDATA[<p>前言</p>
+<pre><code>本篇文章主要介绍hexo博客的搭建及主题优化内容。
+hex博客搭建参考B站这个视频 
+附上链接https://www.bilibili.com/video/BV1mU4y1j72n?spm_id_from=333.999.0.0
+</code></pre>
+<h3 id="hexo的美化"><a href="#hexo的美化" class="headerlink" title="hexo的美化"></a>hexo的美化</h3><pre><code>具体参考csdn 附上参考链接地址
+这是参考链接 [hexo美化] (https://blog.csdn.net/nightmare_dimple/article/details/86661502)
+</code></pre>
+]]></content>
+      <categories>
+        <category>软件安装与使用</category>
+        <category>Hexo</category>
+      </categories>
   </entry>
 </search>
