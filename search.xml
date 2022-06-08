@@ -70,11 +70,22 @@
       </tags>
   </entry>
   <entry>
-    <title>博客文章测验</title>
-    <url>/2022/04/07/newpapername/</url>
-    <content><![CDATA[<p>你好，旧时间</p>
-<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
+    <title>二十岁</title>
+    <url>/2022/04/08/%E4%BA%8C%E5%8D%81%E5%B2%81/</url>
+    <content><![CDATA[<p>人与人之间的最大差别，可能就在于境界与格局的不同。</p>
+<p>有人终其一生都很平庸与简单，也有人穷尽一生去追逐卓越与缤纷，可是这其中的划分，到底天赋所致，还是后天努力的结果？</p>
+<span id="more"></span>
+
+<p>很多人认命且无奈，总觉得父母本就平凡，自然也就无法改变命运，毕竟含着金汤匙出生的人从起跑线上就赢了几分，但是，每个人的命运都掌握在自己手心里，你若想，你若有胆识与气魄，也总有卓越不凡的无限可能，因为你梦想远大，看得见更宽阔的世界，期待着更广袤的天地，这份好奇与求知或许是最大的内驱力。</p>
+<p>当一个人具备着内驱力时，人生终将不凡与惊艳，因为他们敢于拼搏，勇于努力，主动挑战，自主成长，即使外界质疑不断，也能看得见自己的价值和魅力，始终坚守，一直努力，生活终究不会辜负认真与用心的人。</p>
+<p>怎样都是一生，简单是，繁华是，平庸是，惊艳是，希望你总能为自己书写着更高级的人生序章。</p>
 ]]></content>
+      <categories>
+        <category>生活日常</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hexo博客搭建及主题优化</title>
@@ -94,22 +105,11 @@ hex博客搭建参考B站这个视频
       </categories>
   </entry>
   <entry>
-    <title>二十岁</title>
-    <url>/2022/04/08/%E4%BA%8C%E5%8D%81%E5%B2%81/</url>
-    <content><![CDATA[<p>人与人之间的最大差别，可能就在于境界与格局的不同。</p>
-<p>有人终其一生都很平庸与简单，也有人穷尽一生去追逐卓越与缤纷，可是这其中的划分，到底天赋所致，还是后天努力的结果？</p>
-<span id="more"></span>
-
-<p>很多人认命且无奈，总觉得父母本就平凡，自然也就无法改变命运，毕竟含着金汤匙出生的人从起跑线上就赢了几分，但是，每个人的命运都掌握在自己手心里，你若想，你若有胆识与气魄，也总有卓越不凡的无限可能，因为你梦想远大，看得见更宽阔的世界，期待着更广袤的天地，这份好奇与求知或许是最大的内驱力。</p>
-<p>当一个人具备着内驱力时，人生终将不凡与惊艳，因为他们敢于拼搏，勇于努力，主动挑战，自主成长，即使外界质疑不断，也能看得见自己的价值和魅力，始终坚守，一直努力，生活终究不会辜负认真与用心的人。</p>
-<p>怎样都是一生，简单是，繁华是，平庸是，惊艳是，希望你总能为自己书写着更高级的人生序章。</p>
+    <title>博客文章测验</title>
+    <url>/2022/04/07/newpapername/</url>
+    <content><![CDATA[<p>你好，旧时间</p>
+<p>我是未来的你，你好啊 过去的我你现在过的怎么杨呢<br>很高兴见到你啊</p>
 ]]></content>
-      <categories>
-        <category>生活日常</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
   </entry>
   <entry>
     <title>云边小卖部</title>
@@ -125,5 +125,19 @@ hex博客搭建参考B站这个视频
 
 <p>这是刘十三最后的感悟，也是《云边有个小卖部》的点睛之笔，无论悲伤或者希望，正是有了这缕光的存在，我们的生命才会如此五彩缤纷。所不同的是，刘十三原本并不明白活着的意义，或者说是他太过年轻的心只知道远方的“山和海”，却忘了云边镇的美好和那个一直守候着她的人。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>学习</title>
+    <url>/2022/06/08/%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h1 id="eslint语法处理"><a href="#eslint语法处理" class="headerlink" title="eslint语法处理"></a>eslint语法处理</h1><p>建立.eslintrc.js文件 配置</p>
+<p><img src="/2022/06/08/%E5%AD%A6%E4%B9%A0/Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20220608161632170.png" alt="image-20220608161632170"></p>
+<p>建立.prettierrc文件 配置</p>
+<p><img src="/2022/06/08/%E5%AD%A6%E4%B9%A0/Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20220608161738193.png" alt="image-20220608161738193"></p>
+<p>vue.config.js文件中添加lintOnSave配置</p>
+<p><img src="/2022/06/08/%E5%AD%A6%E4%B9%A0/Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20220608161851540.png" alt="image-20220608161851540"></p>
+]]></content>
+      <tags>
+        <tag>-eslint</tag>
+      </tags>
   </entry>
 </search>
